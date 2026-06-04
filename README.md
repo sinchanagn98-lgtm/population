@@ -15,3 +15,14 @@ A modern Streamlit analytics dashboard for India's population dataset.
 
 ```bash
 streamlit run app.py
+
+---
+
+# STEP 1️⃣6️⃣ Run Project
+
+Open terminal inside project folder.
+
+Run:
+
+```bash
+streamlit run app.py
